@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS `kano_rank`;
-CREATE TABLE `kano_rank` (
+DROP TABLE IF EXISTS `Chiram_rank`;
+CREATE TABLE `Chiram_rank` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `score` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
